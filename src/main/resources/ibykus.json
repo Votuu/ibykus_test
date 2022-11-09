@@ -1,0 +1,33 @@
+{
+  "food_order-1": [
+    {
+      "type": "COLOR",
+      "xpath": "/html/body",
+      "css-value": "background-color",
+      "value": "#ededed"
+    },
+    {
+      "type": "COLOR",
+      "xpath": "/html/body/form/div[2]/div[9]/div[2]/div[1]/a",
+      "css-value": "background-color",
+      "value": "#1a1a1a"
+    },
+    {
+      "type": "TEXT",
+      "xpath": "/html/body/form/div[2]/div[7]/div[2]/div[3]/span/p[1]/span",
+      "value": "!removed"
+    },
+    {
+      "type": "TEXT",
+      "xpath": "/html/body/form/div[2]/div[7]/div[2]/div[3]/span/p[2]/span",
+      "value": "Versuche es später nochmal."
+    }
+  ],
+  "food_order-2": [
+    {
+      "type": "TEXT",
+      "xpath": "//*[@id=\"xi-txt-31\"]",
+      "value": "Lachs - Burger mit Senf – Dill Sauce, Salat und Gurke, Steak House Pommes\n(A,C,G,K)"
+    }
+  ]
+}
